@@ -4,11 +4,11 @@ Proyecto del curso de Frontend masters Complete Intro to React, v7.
 ```
 npm install
 ```
-Esto para crear todos los módulos de node nocesarios. Y el comando
+Esto para crear todos los módulos de node necesarios. Y el comando
 ```
 npm run dev
 ```
-Este comando se usa para encender el servidor de localhost y poder ver la página web.  
+Este comando se usa para encender el servidor de localhost, el cual funciona con [parcel](https://parceljs.org/) , y poder ver la página web.  
 Este proyecto es una aplicación de adopción de mascotas, las cuales filtra a los animales por localización, tipo de animal y raza del mismo.
 - Algunas capturas de la aplicación:  
 ![Captura](/captures/cap1.jpg)  
